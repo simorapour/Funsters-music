@@ -26,7 +26,7 @@ module.exports = {
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: 'Funsters',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
